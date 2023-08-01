@@ -1,0 +1,22 @@
+asgiref
+click
+Django
+gunicorn
+joblib
+nltk
+numpy
+pandas
+psycopg2
+python-dateutil
+pytz
+regex
+scikit-learnt 
+scipy
+six
+sqlparse
+threadpoolctl
+tqdm
+typing-extensions
+whitenoise
+DVC
+-e .
