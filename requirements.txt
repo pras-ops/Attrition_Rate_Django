@@ -10,7 +10,7 @@ psycopg2
 python-dateutil
 pytz
 regex
-scikit-learnt 
+scikit-learn
 scipy
 six
 sqlparse
@@ -19,4 +19,10 @@ tqdm
 typing-extensions
 whitenoise
 DVC
+dill
+notebook
+matplotlib
+catboost
+xgboost
+Flask
 -e .
